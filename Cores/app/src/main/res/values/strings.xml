@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cores</string>
+    <string name="text_cores">CORES</string>
+    <string name="text_vermelho">Vermelho:</string>
+    <string name="text_verde">Verde:</string>
+    <string name="text_azul">Azul:</string>
+    <string name="text_resultado">COR RESULTANTE</string>
+    <string name="text_button">SORTEAR COR</string>
+</resources>
